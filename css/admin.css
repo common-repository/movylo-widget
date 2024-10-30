@@ -1,0 +1,31 @@
+p { font-size: 1rem; }
+
+.settings{ margin-top:48px; }
+
+.swk_admin_body .field {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 15px;
+}
+.swk_admin_body .field > label, .swk_admin_body .field > input {
+	min-width: 140px;
+}
+
+.section-title { cursor:pointer;line-height:2rem;text-decoration: underline; }
+
+h2{
+	color:#0E72B7;
+}
+
+h3{
+	color:#0E72B7;
+}
+
+b{
+	color:#FFC350;
+}
+
+.info_title{
+	color:#0E72B7;
+}
